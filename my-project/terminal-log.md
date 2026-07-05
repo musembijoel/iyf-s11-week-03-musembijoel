@@ -6,7 +6,7 @@ cd ~
 pwd
 cd /workspaces
 ls
-cd /workspaces/iyf-s11-week-03-Mkmoise
+cd /workspaces/iyf-s11-week-03-musembijoel
 pwd
 
 Task 5.2 – File Operations
